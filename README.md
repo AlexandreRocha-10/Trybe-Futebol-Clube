@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 
-<h3 align="center">Trybe Futebol Clube! Project</h3>
+<h3 align="center">Trybe Futebol Clube Project</h3>
 
 </div>
 
@@ -19,5 +19,4 @@ Nesse projeto, foi construído um back-end dockerizado utilizando modelagem de d
 
 Alexandre Rocha - alexandre.e.rocha@gmail.com
 
-Project Link: [https://trybetunes-git-main-alexandrerocha-10.vercel.app////](https://trybetunes-git-main-alexandrerocha-10.vercel.app////)
 
